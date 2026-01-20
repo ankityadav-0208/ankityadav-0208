@@ -23,9 +23,9 @@ I’m actively looking for **internship / job opportunities** where I can contri
 - 🤝 Open to Internship / Job roles
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/your-username)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-yadav-4b86b7294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/mr_ankityadav02__)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:vankityadav02@gmail.com)
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankityadav-0208&show_icons=true&theme=tokyonight)
