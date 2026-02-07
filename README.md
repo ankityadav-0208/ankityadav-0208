@@ -12,7 +12,7 @@ I’m actively looking for **internship / job opportunities** where I can contri
 ### ✅ Portfolio Website
 - Built a responsive portfolio website
 - Live: https://ankityadav-0208.github.io/portfolio1/
-- Repo: https://github.com/ankityadav-0208/ankit-portfolio.git
+- Repo: https://github.com/ankityadav-0208/portfolio1.git
 
 ### ✅ (Your Project Name)
 - Tech: React / Node / MongoDB
