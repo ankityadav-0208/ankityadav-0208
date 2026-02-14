@@ -28,5 +28,7 @@ I’m actively looking for **internship / job opportunities** where I can contri
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:vankityadav022@gmail.com)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankityadav-0208&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=ankityadav-0208&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=ankityadav-0208&show_icons=true&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=ankityadav-0208&theme=tokyonight" />
+
