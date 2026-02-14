@@ -29,6 +29,4 @@ I’m actively looking for **internship / job opportunities** where I can contri
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankityadav-0208&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=ankityadav-0208&theme=tokyonight)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --
+![GitHub Streak](https://streak-stats.demolab.com?username=ankityadav-0208&theme=tokyonight)
