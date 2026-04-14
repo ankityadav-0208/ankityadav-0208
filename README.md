@@ -16,7 +16,8 @@ I’m actively looking for **internship / job opportunities** where I can contri
 
 ### ✅ (Your Project Name)
 - Tech: React / Node / MongoDB
-- Repo: (add link)
+- Repo: https://github.com/ankityadav-0208/p-1-Smart-attendance-system.git
+- live: 
 
 ## 📌 Currently
 - 📚 Learning DSA + Full Stack Development
