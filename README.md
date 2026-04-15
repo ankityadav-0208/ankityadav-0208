@@ -14,7 +14,7 @@ I’m actively looking for **internship / job opportunities** where I can contri
 - Live: https://ankityadav-0208.github.io/portfolio1/
 - Repo: https://github.com/ankityadav-0208/portfolio1.git
 
-### ✅ (Your Project Name)
+### ✅ Smart Attendance System 
 - Tech: React / Node / MongoDB
 - Repo: https://github.com/ankityadav-0208/p-1-Smart-attendance-system.git
 - live: https://ankityadav-0208.github.io/p-1-Smart-attendance-system/
