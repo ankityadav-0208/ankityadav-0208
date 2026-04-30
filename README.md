@@ -11,8 +11,8 @@ I’m actively looking for **internship / job opportunities** where I can contri
 ## 🚀 Projects
 ### ✅ Portfolio Website
 - Built a responsive portfolio website
-- Live: https://ankityadav-0208.github.io/portfolio1/
-- Repo: https://github.com/ankityadav-0208/portfolio1.git
+- Repo: https://github.com/ankityadav-0208/my-portfolio.git
+- Live: https://ankityadav-0208.github.io/my-portfolio/
 
 ### ✅ Smart Attendance System 
 - Tech: React / Node / MongoDB
